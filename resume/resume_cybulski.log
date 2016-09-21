@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.15)  19 SEP 2016 18:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.15)  20 SEP 2016 09:51
 entering extended mode
 **D:/Google*Drive/Personal*Docs/Resume/cybcv/resume/resume_cybulski.tex
 ("D:/Google Drive/Personal Docs/Resume/cybcv/resume/resume_cybulski.tex"
@@ -341,24 +341,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 331.
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 331--349
+Overfull \hbox (6.0pt too wide) in paragraph at lines 331--353
 [][] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 357.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 361.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 357.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 361.
 
-Overfull \hbox (1.58318pt too wide) in paragraph at lines 406--407
+Overfull \hbox (1.58318pt too wide) in paragraph at lines 410--411
 []\OT1/cmr/m/n/10 Quantified per-for-mance of next-generation neu-ral imag-ing 
 tech-niques us-ing Fisher
  []
@@ -369,14 +369,14 @@ tech-niques us-ing Fisher
 
 AED: lastpage setting LastPage
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 654.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 654.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 658.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 658.
  ("D:\Google Drive\Personal Docs\Resume\cybcv\resume\resume_cybulski.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 654.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 654.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 658.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 658.
 Package rerunfilecheck Info: File `resume_cybulski.out' has not changed.
 (rerunfilecheck)             Checksum: 70B6355484F1885D35FD500D380789DE;381.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 654.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 658.
  ) 
 Here is how much of TeX's memory you used:
  5937 strings out of 493921
@@ -385,7 +385,7 @@ Here is how much of TeX's memory you used:
  9190 multiletter control sequences out of 15000+200000
  5200 words of font info for 19 fonts, out of 3000000 for 9000
  845 hyphenation exceptions out of 8191
- 29i,13n,43p,507b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,13n,43p,507b,435s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
@@ -393,7 +393,7 @@ Here is how much of TeX's memory you used:
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume_cybulski.pdf (2 pages, 108787 bytes).
+Output written on resume_cybulski.pdf (2 pages, 107814 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
